@@ -1,0 +1,19 @@
+
+header{
+    display: inline;
+}
+header > nav > ul {
+    list-style-type: none;
+    font-family: 'Lato', sans-serif;
+}
+.navListItem{
+    display: inline;
+    margin-right: 26px;
+}
+nav{
+    display: inline-block;
+    float: right;
+}
+#headerH1{
+    display: inline-block;
+}
