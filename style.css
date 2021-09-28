@@ -1,4 +1,7 @@
-
+body{
+    background-color: black;
+    color: aliceblue;
+}
 header{
     background-color: blueviolet;
 }
