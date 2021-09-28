@@ -1,6 +1,6 @@
 
 header{
-    display: inline;
+    background-color: blueviolet;
 }
 header > nav > ul {
     list-style-type: none;
@@ -8,10 +8,9 @@ header > nav > ul {
 }
 .navListItem{
     display: inline;
-    margin-right: 26px;
+    margin-right: 156px;
 }
 nav{
-    display: inline-block;
     float: right;
 }
 #headerH1{
