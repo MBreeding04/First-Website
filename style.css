@@ -5,6 +5,9 @@ body{
 header{
     background-color: blueviolet;
 }
+nav{
+    float: right;
+}
 header > nav > ul {
     list-style-type: none;
     font-family: 'Lato', sans-serif;
@@ -12,9 +15,6 @@ header > nav > ul {
 .navListItem{
     display: inline;
     margin-right: 156px;
-}
-nav{
-    float: right;
 }
 #headerH1{
     display: inline-block;
